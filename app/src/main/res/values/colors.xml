@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ButtonBackgroundColorC">#FF156B</color>
+    <color name="ButtonBackgroundColorU">#F5F5F5</color>
+    <color name="TextBackgroundColorC">#FFFF</color>
+    <color name="TextBackgroundColorU">#00C853</color>
+    <color name="TextSecBackgroundColorU">#FF156B</color>
+    <color name="ButtonSecBackgroundColorC">#6495ED </color>
+    <color name="ButtonColor">#00FF00 </color>
+    <color name="ButtonTextColor">#3F51B5 </color>
+</resources>
